@@ -10,10 +10,7 @@ import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/5/27
- */
+
 @Repository
 public interface CategoryMapper extends Mapper<Category>,SelectByIdListMapper<Category,Long> {
     @Select("SELECT * from tb_category WHERE id IN (select category_id FROM tb_category_brand where brand_id = #{bid})")

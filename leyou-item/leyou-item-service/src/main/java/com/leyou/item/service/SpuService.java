@@ -16,10 +16,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/1
- */
 @Service
 public class SpuService {
 

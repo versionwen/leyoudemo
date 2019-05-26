@@ -19,10 +19,6 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.*;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/2
- */
 @Service
 @Transactional
 public class GoodsService {

@@ -13,10 +13,6 @@ import tk.mybatis.mapper.entity.Example;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/5/28
- */
 @Service
 public class BrandService {
 

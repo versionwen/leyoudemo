@@ -11,10 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/2
- */
+
 
 @RestController
 @RequestMapping("goods")

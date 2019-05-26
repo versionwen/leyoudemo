@@ -5,10 +5,6 @@ import com.leyou.cart.pojo.Specification;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/1
- */
 @Service
 public class SpecificationsService {
 

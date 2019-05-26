@@ -6,10 +6,6 @@ import com.leyou.cart.pojo.SpuDetail;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/2
- */
 public class GoodsBo extends Spu {
 
 

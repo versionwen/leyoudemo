@@ -8,10 +8,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/7
- */
 @RequestMapping("brand")
 public interface BrandApi {
 

@@ -2,10 +2,7 @@ package com.leyou.bo;
 
 import com.leyou.cart.pojo.Spu;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/1
- */
+
 public class SpuBo extends Spu {
 
     private String cname;

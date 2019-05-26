@@ -6,10 +6,6 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 import tk.mybatis.spring.annotation.MapperScan;
 
-/**
- * @author Qin PengCheng
- * @date 2018/5/24
- */
 @SpringBootApplication
 @EnableEurekaClient
 @EnableTransactionManagement

@@ -8,10 +8,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author Qin PengCheng
- * @date 2018/6/1
- */
 @RestController
 @RequestMapping("spec")
 public class SpecificationsController

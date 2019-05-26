@@ -3,10 +3,7 @@ package com.leyou.cart.pojo;
 import javax.persistence.*;
 import java.io.Serializable;
 
-/**
- * @author Qin PengCheng
- * @date 2018/5/27
- */
+
 @Table(name = "tb_category")
 public class Category implements Serializable{
 

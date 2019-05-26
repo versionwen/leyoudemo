@@ -7,10 +7,6 @@ import tk.mybatis.mapper.common.Mapper;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/5/28
- */
 public interface BrandMapper extends Mapper<Brand>,SelectByIdListMapper<Brand,Long> {
 
     @Insert("INSERT INTO tb_category_brand (category_id, brand_id) VALUES (#{cid},#{bid})")

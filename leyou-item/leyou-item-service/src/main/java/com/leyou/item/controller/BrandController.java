@@ -10,10 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * @author Qin PengCheng
- * @date 2018/5/28
- */
+
 @RestController
 @RequestMapping("brand")
 public class BrandController {
